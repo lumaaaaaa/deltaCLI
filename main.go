@@ -1,6 +1,5 @@
 // devin's midflight speedcode challenge
 // WiFiOnboard/Delta CLI flight tracker
-//
 
 package main
 
