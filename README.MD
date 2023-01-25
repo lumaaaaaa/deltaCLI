@@ -8,8 +8,6 @@
   <p align="center">
     CLI flight tracker for Delta onboard WiFi enabled flights
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
     <a href="https://github.com/lumaaaaaa/deltaCLI/issues">Report Bug</a>
     ·
     <a href="https://github.com/lumaaaaaa/deltaCLI/issues">Request Feature</a>
